@@ -1,0 +1,1 @@
+This is a real time dashboard using React 18, Webpack 5, and Babel for Dynamic Data Visualization.
